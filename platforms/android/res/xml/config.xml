@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ca.edumedia.jaff0021.madfinal" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>Jaff0021</name>
+    <description>
+        MAD 9014 final 2016
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Zaheed Rizwan Jaffer
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <splash density="port-ldpi" src="res/screens/Splashscreens_LDPI-Portrait.png" />
+    <splash density="port-mdpi" src="res/screens/Splashscreens_MDPI-Portrait.png" />
+    <splash density="port-hdpi" src="res/screens/Splashscreens_HDPI-Portrait.png" />
+    <splash density="port-xhdpi" src="res/screens/Splashscreens_XHDPI-Portrait.png" />
+    <splash density="land-ldpi" src="res/screens/Splashscreens_LDPI-Landscape.png" />
+    <splash density="land-mdpi" src="res/screens/Splashscreens_MDPI-Landscape.png" />
+    <splash density="land-hdpi" src="res/screens/Splashscreens_HDPI-Landscape.png" />
+    <splash density="land-xhdpi" src="res/screens/Splashscreens_XHDPI-Landscape.png" />
+    <icon density="ldpi" src="res/icons/AppIcon_LDPI.png" />
+    <icon density="mdpi" src="res/icons/AppIcon_MDPI.png" />
+    <icon density="hdpi" src="res/icons/AppIcon_HDPI.png" />
+    <icon density="xhdpi" src="res/icons/AppIcon_XHDPI.png" />
+    <icon density="xxhdpi" src="res/icons/AppIcon_XXHDPI.png" />
+    <icon density="xxxhdpi" src="res/icons/AppIcon_XXXHDPI.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="5000" />
+</widget>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200.18 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ac0000;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-4 {
+        fill: #006837;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #fcee21;
+      }
+
+      .cls-7 {
+        fill: #29abe2;
+      }
+
+      .cls-8 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <title>Team Icons</title>
+  <g id="Gryffindor">
+    <rect class="cls-1" width="200.18" height="200"/>
+    <text class="cls-2" transform="translate(74.51 102.77)">G<tspan class="cls-3" x="7.75" y="0">r</tspan><tspan x="11.98" y="0">yffindor</tspan></text>
+  </g>
+  <g id="Slytherin">
+    <rect class="cls-4" x="0.18" width="200" height="200"/>
+    <text class="cls-2" transform="translate(77.57 104.52)">Slythe<tspan class="cls-5" x="31.04" y="0">r</tspan><tspan x="35.02" y="0">in</tspan></text>
+  </g>
+  <g id="Hufflepuff">
+    <rect class="cls-6" x="0.18" width="200" height="200"/>
+    <text class="cls-2" transform="translate(74.48 103.77)">Hufflepuff</text>
+  </g>
+  <g id="Ravenclaw">
+    <rect class="cls-7" x="0.18" width="200" height="200"/>
+    <text class="cls-2" transform="translate(73.89 103.77)"><tspan class="cls-8">R</tspan><tspan class="cls-9" x="6.6" y="0">a</tspan><tspan class="cls-10" x="12.29" y="0">v</tspan><tspan x="17.94" y="0">encl</tspan><tspan class="cls-9" x="38.82" y="0">a</tspan><tspan x="44.51" y="0">w</tspan></text>
+  </g>
+</svg>
